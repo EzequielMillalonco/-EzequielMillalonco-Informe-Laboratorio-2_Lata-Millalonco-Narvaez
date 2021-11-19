@@ -4,8 +4,8 @@
  
 General: 
 
-        Explicar y demostrar experimentalmente la Ley de Kirchhoff de Voltajes y la Ley de Kirchhoff de Corrientes.
-
+        Comprobar experimentalmente el Análisis de Mallas.
+        
 Específicos: 
  
         1. 
