@@ -8,12 +8,11 @@ Comprobar experimentalmente el Análisis de Mallas.
         
 	Específicos: 
 
- a. Comprender .
+a. Entender el funcionamiento de las mallas en los circuitos elecctricos mediante su aplicacion y analisis experimentral y simulada.
 
-b. Identificar .
+b. Aplicar los conocimientos teóricos que se tiene sobre el analisis de mallas utilizando la Ley de Voltajes de Kirchhoff, esto con el proposito de entender sus 2 metodos de analisis: Metodo de las corrientes de mallas y metodo de las corrientes de rama.
 
-c. Definir conceptos .
-
+c. Construir un circuito eléctrico de manera experimental y simulado con el fin de identificar sus partes básicas y realizar cálculos teoricos, experiméntales y simulados para expresar voltajes en funcion de corrientes.
 
 ## 2. MARCO TEÓRICO
 
