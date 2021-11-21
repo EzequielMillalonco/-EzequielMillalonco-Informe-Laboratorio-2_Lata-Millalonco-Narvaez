@@ -2,18 +2,18 @@
 
 ## 1. OBJETIVOS
  
-General: 
+	General: 
 
-        Comprobar experimentalmente el Análisis de Mallas.
+Comprobar experimentalmente el Análisis de Mallas.
         
-Específicos: 
- 
-        1. 
-        
-        2.
-        
-        3. 
-        
+	Específicos: 
+
+ a. Comprender .
+
+b. Identificar .
+
+c. Definir conceptos .
+
 
 ## 2. MARCO TEÓRICO
 
