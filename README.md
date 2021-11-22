@@ -8,7 +8,7 @@ Comprobar experimentalmente el Análisis de Mallas.
         
 	Específicos: 
 
-a. Entender el funcionamiento de las mallas en los circuitos elecctricos mediante su aplicacion y analisis experimentral y simulada.
+a. Entender el funcionamiento de las mallas en los circuitos elecctricos mediante su aplicacion y analisis experimentral y simulado.
 
 b. Aplicar los conocimientos teóricos que se tiene sobre el analisis de mallas utilizando la Ley de Voltajes de Kirchhoff, esto con el proposito de entender sus 2 metodos de analisis: Metodo de las corrientes de mallas y metodo de las corrientes de rama.
 
@@ -51,7 +51,6 @@ Implementación del circuito:
 Conclusiones: 
 
 
-
 ## 5. VIDEO
 
         Link del video ¨Informe de laboratorio 2¨ en donde se comprueba experimentalmente el Análisis de Mallas.
@@ -63,12 +62,12 @@ https://youtu.be/QaQNKTvchSc
 
 ## 6. CONCLUSIONES
 
-        1.
-        
-        2.
-        
-        3.
-        
+a. El funcionamiento de las mallas en los circuitos electricos fue entendido de manera exitosa garcias a su aplicacion y analisis experimental y simulado.
 
+b. Los conocimeintos teoricos del analisis de mallas utilizando la Ley de Voltajes de Kirchhoff y sus 2 metodos de analisis fueron aplicados correctamente a lo largo del laboratorio.
+
+c. Los calculos teoricos, experimentales y simulados resultaron ser correctos, ya que cada uno de estos fue comprobado (mediante la construccion de un circuito) y comparado para tener el menor margen de error posible.
 
 ## 7. BIBLIOGRAFÍA
+
+Alulema Darwin. Guías Primer Parcial https://classroom.google.com/u/0/w/NDEyOTg4NDk2MDQx/t/all?hl=es
