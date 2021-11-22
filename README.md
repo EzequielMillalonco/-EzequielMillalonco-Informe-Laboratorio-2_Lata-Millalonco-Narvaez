@@ -64,7 +64,7 @@ Mallas del circuito:
 
         2.5.3. Segunda parte: Anote los resultados en la tabla 2.1
 
-        2.5.4. Compare los calores de la tabla 2.1 y realice sus conclusiones.
+        2.5.4. Compare los valores de la tabla 2.1 y realice sus conclusiones.
         
 (Acá va la tabla 1.2 con los datos respectivos)
         
