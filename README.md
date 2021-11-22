@@ -38,7 +38,7 @@ Implementación del circuito:
 
 ![Malla sin caminos dibujados](https://user-images.githubusercontent.com/93396250/142806171-7c315ae9-3e42-40e9-950c-805c172b70a5.JPG)
 
-Mallas dell circuito:
+Mallas del circuito:
 
 ![Mallas](https://user-images.githubusercontent.com/93396250/142805873-d15fc757-1fdb-4eb7-84b2-d750f297fcbf.JPG)
 
