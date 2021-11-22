@@ -42,17 +42,17 @@ Mallas del circuito:
 
 ![Mallas](https://user-images.githubusercontent.com/93396250/142805873-d15fc757-1fdb-4eb7-84b2-d750f297fcbf.JPG)
 
-Malla 1:
+	Malla 1:
 
 ![image](https://user-images.githubusercontent.com/93396250/142909685-bc4c2510-9f47-4d46-86c9-283376edc608.png)
 
 
-Malla 2:
+	Malla 2:
 
 ![image](https://user-images.githubusercontent.com/93396250/142909884-c2a871a0-7e09-416b-aa57-da001b5fc0d8.png)
 
 
-Malla 3:
+	Malla 3:
 
 ![image](https://user-images.githubusercontent.com/93396250/142910035-43ca2c3d-c486-481a-a41e-c89b8c17344b.png)
 
