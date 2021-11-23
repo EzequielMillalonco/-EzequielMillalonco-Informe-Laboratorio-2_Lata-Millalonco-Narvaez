@@ -117,6 +117,7 @@ La tabla 2.1 tiene un error porcentual menor al 5% aceptable, siendo estos en lo
 Conclusiones: 
 
 Por tanto, se concluye que el presente laboratorio fue exitoso ya que se pudo demostrar experimentalmente que la suma de corrientes dentro de una malla es igual a cero y que una malla es una clase restringida de lazo; una malla es un lazo que no contiene otros lazos.
+
 ## 5. VIDEO
 
         Link del video ¨Informe de laboratorio 2¨ en donde se comprueba experimentalmente el Análisis de Mallas.
