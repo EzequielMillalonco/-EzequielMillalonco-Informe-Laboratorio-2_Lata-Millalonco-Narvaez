@@ -44,7 +44,7 @@ Una malla es una clase restringida de lazo; una malla es un lazo que no contiene
 
 ## 3. EXPLICACIÓN DEL PROCEDIMIENTO
 
-2.5.1 Implemente el circuito que se presenta en la figura 2.1.
+3.5.1 Implemente el circuito que se presenta en la figura 2.1.
 
 ![image](https://user-images.githubusercontent.com/93396250/142574532-470a83f0-8b53-47b6-b9be-ee7c354d538b.png)
 
@@ -52,11 +52,11 @@ Implementación del circuito:
 
 
 
-2.5.2 Primera parte: Mida cada una de las corrientes de malla
+3.5.2 Primera parte: Mida cada una de las corrientes de malla
 
 
 
-2.5.3 Primera parte: Simule en el software Multisim, Proteus, o cualquier otro simulador, el circuito de la figura 2.1, obteniendo los valores de las corrientes de malla.
+3.5.3 Primera parte: Simule en el software Multisim, Proteus, o cualquier otro simulador, el circuito de la figura 2.1, obteniendo los valores de las corrientes de malla.
 
 	Circuito 2.1 simulado en Multisim
 
