@@ -120,7 +120,7 @@ Por tanto, se concluye que el presente laboratorio fue exitoso ya que se pudo de
 
         Link del video ¨Informe de laboratorio 2¨ en donde se comprueba experimentalmente el Análisis de Mallas.
         
-https://youtu.be/QaQNKTvchSc
+
 	
 	
 [![Presentación Tarea 2](https://img.youtube.com/vi/QaQNKTvchSc/0.jpg)](https://www.youtube.com/watch?v=QaQNKTvchSc)
