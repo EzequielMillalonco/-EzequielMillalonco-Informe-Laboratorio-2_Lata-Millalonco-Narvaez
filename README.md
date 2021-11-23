@@ -42,9 +42,12 @@ Implementación del circuito: https://www.tinkercad.com/things/2oJdVI8I8bZ-funky
 ![image](https://user-images.githubusercontent.com/93396250/143031049-eb9fcf31-3d4a-4083-bfe9-5802bdf28515.png)
 
 
+
 2.5.2 Primera parte: Mida cada una de las corrientes de malla
 
 Mediciones experimentales: 
+
+![image](https://user-images.githubusercontent.com/93396250/143032500-c97aaf0e-7248-42c1-bda4-ca8b9b942ed7.png)
 
 Cálculos teóricos:
 
