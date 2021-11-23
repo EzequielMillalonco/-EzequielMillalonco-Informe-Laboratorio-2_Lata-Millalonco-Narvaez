@@ -37,8 +37,9 @@ Un lazo es cualquier trayectoria cerrada alrededor de un circuito. Para formar u
 
 ![image](https://user-images.githubusercontent.com/93396250/142574532-470a83f0-8b53-47b6-b9be-ee7c354d538b.png)
 
-Implementación del circuito: 
+Implementación del circuito: https://www.tinkercad.com/things/2oJdVI8I8bZ-funky-inari-fyyran/editel?sharecode=zJN5SG07XeBqcja9Qi94_K4qmJw-OCQ95rOpPH1OTe8
 
+![image](https://user-images.githubusercontent.com/93396250/143031049-eb9fcf31-3d4a-4083-bfe9-5802bdf28515.png)
 
 
 2.5.2 Primera parte: Mida cada una de las corrientes de malla
