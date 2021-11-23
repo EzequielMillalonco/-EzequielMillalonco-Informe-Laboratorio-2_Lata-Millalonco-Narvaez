@@ -43,7 +43,25 @@ Implementación del circuito:
 
 2.5.2 Primera parte: Mida cada una de las corrientes de malla
 
+-18+I1R1+R4(I1-I2)=0
 
+1820I1-1000I2=18	ECUACIÓN 1
+
+I2R2+R5(I2-I3)+R4(I2-I1)=0
+
+-2200I3+4400I2-1000I1=0		ECUACIÓN 2
+
+I3R3+5+R5(I3-I2)=0
+
+2590I3-2200I2=-5	ECUACIÓN 3
+
+**RESOLVEMOS EL SISTEMA DE 3 ECUACIONES CON 3 INCÓGNITAS, POR CUALQUIER MÉTODO, EN ESTE CASO TRABAJAREMOS CON ELIMINACIÓN DE GAUSS-JORDAN**
+
+I1= 11.45 mA
+
+I2= 2.84 mA
+
+I3= 488.12 μA
 
 2.5.3 Primera parte: Simule en el software Multisim, Proteus, o cualquier otro simulador, el circuito de la figura 2.1, obteniendo los valores de las corrientes de malla.
 
