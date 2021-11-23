@@ -97,12 +97,25 @@ Mallas del circuito:
 
         2.5.4. Compare los valores de la tabla 2.1 y realice sus conclusiones.
         
-(Acá va la tabla 1.2 con los datos respectivos)
+![Screenshot 2021-11-22 213959](https://user-images.githubusercontent.com/93826527/142963670-8945d966-2016-4ce8-b052-6e44bca72cd2.png)
+
         
-        
+	
+**Se aplica la formula del error porcentual para calcular cual fue el error entre las medidas, siendo el error porcentual aceptable del 5%**
+
+![image](https://user-images.githubusercontent.com/93396250/141480859-765210f6-609f-4c8b-9ad1-4f4543fa9817.png)
+
+La tabla 2.1 tiene un error porcentual menor al 5% aceptable, siendo estos en los cálculos y experimentación:
+
+Malla 1 tiene un error del 0.43%
+
+Malla 2 tiene un error del 0.35%
+
+Malla 3 tiene un error del 0.02%
         
 Conclusiones: 
 
+Por tanto, se concluye que el presente laboratorio fue exitoso ya que se pudo demostrar experimentalmente que la suma de corrientes dentro de una malla es igual a cero y que una malla es una clase restringida de lazo; una malla es un lazo que no contiene otros lazos, el lazo punteado no es una malla, pues contiene dos lazos distintos.
 
 ## 5. VIDEO
 
