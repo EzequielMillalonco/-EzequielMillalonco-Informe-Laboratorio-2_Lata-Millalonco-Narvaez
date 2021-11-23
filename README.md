@@ -44,6 +44,10 @@ Implementación del circuito: https://www.tinkercad.com/things/2oJdVI8I8bZ-funky
 
 2.5.2 Primera parte: Mida cada una de las corrientes de malla
 
+Mediciones experimentales: 
+
+Cálculos teóricos:
+
 	-18+I1R1+R4(I1-I2)=0
 
 	1820I1-1000I2=18	ECUACIÓN 1
