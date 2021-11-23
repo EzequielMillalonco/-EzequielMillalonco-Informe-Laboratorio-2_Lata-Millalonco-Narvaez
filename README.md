@@ -16,7 +16,31 @@ c. Construir un circuito eléctrico de manera experimental y simulado con el fin
 
 ## 2. MARCO TEÓRICO
 
+El método de la corriente de malla es otro método bien organizado para resolver circuitos (el otro es el del voltaje en los nodos). Al igual que en cualquier análisis de circuito, tenemos que resolver un sistema de 2E2E2, E ecuaciones independientes, donde EEE es el número de elementos del circuito. El método de la corriente de malla facilita el análisis, y produce un número relativamente pequeño de ecuaciones a resolver. El método de la corriente de malla se basa en la ley de voltaje de Kirchhoff (LVK).
 
+![Screenshot 2021-11-22 202012](https://user-images.githubusercontent.com/93826527/142958250-6a3e6eff-5d82-48c0-a40e-6956fb42373d.png)
+
+El método de la corriente de malla utiliza dos términos especiales: lazo y malla.
+
+Un lazo es cualquier trayectoria cerrada alrededor de un circuito. Para formar un lazo, debes comenzar en la terminal de algún componente y trazar un camino a través de elementos conectados hasta llegar nuevamente al punto de partida. Un lazo solo puede pasar por un elemento una vez (de tal forma que no obtengas lazos que parezcan el número 8). En el circuito de arriba hay tres lazos: dos representados con una línea continua, \text IIstart text, I, end text y \text{II}IIstart text, I, I, end text, y otro con una línea punteada, \text{III}IIIstart text, I, I, I, end text, que sigue el perímetro del circuito.
+
+
+Si trazamos los lazos en el sentido de las manecillas del reloj, los tres pasan a través de:
+
+\begin{aligned} &\text{Lazo I:}\quad&\text{V1 - R1 - R3} \\ &\text{Lazo II:}\quad&\text{R3 - R2 - V2} \\ &\text{Lazo III (punteado):}\quad&\text{V1 - R1 - R2 - V2} \end{aligned} 
+​
+  
+Lazo I:
+Lazo II:
+Lazo III (punteado):
+​
+  
+V1 - R1 - R3
+R3 - R2 - V2
+V1 - R1 - R2 - V2
+​
+ 
+Una malla es una clase restringida de lazo; una malla es un lazo que no contiene otros lazos. En el circuito de arriba, los lazos \text IIstart text, I, end text y \text{II}IIstart text, I, I, end text son mallas porque no hay lazos pequeños dentro de ellas. El lazo punteado no es una malla, pues contiene dos lazos distintos.
 
 ## 3. EXPLICACIÓN DEL PROCEDIMIENTO
 
