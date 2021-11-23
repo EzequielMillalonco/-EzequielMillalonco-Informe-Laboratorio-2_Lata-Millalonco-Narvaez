@@ -25,26 +25,16 @@ El método de la corriente de malla utiliza dos términos especiales: lazo y mal
 Un lazo es cualquier trayectoria cerrada alrededor de un circuito. Para formar un lazo, debes comenzar en la terminal de algún componente y trazar un camino a través de elementos conectados hasta llegar nuevamente al punto de partida. Un lazo solo puede pasar por un elemento una vez (de tal forma que no obtengas lazos que parezcan el número 8). En el circuito de arriba hay tres lazos: dos representados con una línea continua, \text IIstart text, I, end text y \text{II}IIstart text, I, I, end text, y otro con una línea punteada, \text{III}IIIstart text, I, I, I, end text, que sigue el perímetro del circuito.
 
 
-Si trazamos los lazos en el sentido de las manecillas del reloj, los tres pasan a través de:
+Una malla es una clase restringida de lazo; una malla es un lazo que no contiene otros lazos, el lazo punteado no es una malla, pues contiene dos lazos distintos.
 
-\begin{aligned} &\text{Lazo I:}\quad&\text{V1 - R1 - R3} \\ &\text{Lazo II:}\quad&\text{R3 - R2 - V2} \\ &\text{Lazo III (punteado):}\quad&\text{V1 - R1 - R2 - V2} \end{aligned} 
-​
-  
-Lazo I:
-Lazo II:
-Lazo III (punteado):
-​
-  
-V1 - R1 - R3
-R3 - R2 - V2
-V1 - R1 - R2 - V2
-​
- 
-Una malla es una clase restringida de lazo; una malla es un lazo que no contiene otros lazos. En el circuito de arriba, los lazos \text IIstart text, I, end text y \text{II}IIstart text, I, I, end text son mallas porque no hay lazos pequeños dentro de ellas. El lazo punteado no es una malla, pues contiene dos lazos distintos.
+![Blank diagram (3)](https://user-images.githubusercontent.com/93826527/142958704-42b687b4-f30c-4307-b342-6734275d7551.png)
+
+![Screenshot 2021-11-22 202727](https://user-images.githubusercontent.com/93826527/142958750-f2396ed8-4603-4c0e-a38a-0db76b003a69.png)
+
 
 ## 3. EXPLICACIÓN DEL PROCEDIMIENTO
 
-3.5.1 Implemente el circuito que se presenta en la figura 2.1.
+2.5.1 Implemente el circuito que se presenta en la figura 2.1.
 
 ![image](https://user-images.githubusercontent.com/93396250/142574532-470a83f0-8b53-47b6-b9be-ee7c354d538b.png)
 
@@ -52,11 +42,11 @@ Implementación del circuito:
 
 
 
-3.5.2 Primera parte: Mida cada una de las corrientes de malla
+2.5.2 Primera parte: Mida cada una de las corrientes de malla
 
 
 
-3.5.3 Primera parte: Simule en el software Multisim, Proteus, o cualquier otro simulador, el circuito de la figura 2.1, obteniendo los valores de las corrientes de malla.
+2.5.3 Primera parte: Simule en el software Multisim, Proteus, o cualquier otro simulador, el circuito de la figura 2.1, obteniendo los valores de las corrientes de malla.
 
 	Circuito 2.1 simulado en Multisim
 
