@@ -115,8 +115,7 @@ Malla 3 tiene un error del 0.02%
         
 Conclusiones: 
 
-Por tanto, se concluye que el presente laboratorio fue exitoso ya que se pudo demostrar experimentalmente que la suma de corrientes dentro de una malla es igual a cero y que una malla es una clase restringida de lazo; una malla es un lazo que no contiene otros lazos, el lazo punteado no es una malla, pues contiene dos lazos distintos.
-
+Por tanto, se concluye que el presente laboratorio fue exitoso ya que se pudo demostrar experimentalmente que la suma de corrientes dentro de una malla es igual a cero y que una malla es una clase restringida de lazo; una malla es un lazo que no contiene otros lazos.
 ## 5. VIDEO
 
         Link del video ¨Informe de laboratorio 2¨ en donde se comprueba experimentalmente el Análisis de Mallas.
