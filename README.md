@@ -22,10 +22,9 @@ El método de la corriente de malla es otro método bien organizado para resolve
 
 El método de la corriente de malla utiliza dos términos especiales: lazo y malla.
 
-Un lazo es cualquier trayectoria cerrada alrededor de un circuito. Para formar un lazo, debes comenzar en la terminal de algún componente y trazar un camino a través de elementos conectados hasta llegar nuevamente al punto de partida. Un lazo solo puede pasar por un elemento una vez (de tal forma que no obtengas lazos que parezcan el número 8). En el circuito de arriba hay tres lazos: dos representados con una línea continua, \text IIstart text, I, end text y \text{II}IIstart text, I, I, end text, y otro con una línea punteada, \text{III}IIIstart text, I, I, I, end text, que sigue el perímetro del circuito.
+Un lazo es cualquier trayectoria cerrada alrededor de un circuito. Para formar un lazo, debes comenzar en la terminal de algún componente y trazar un camino a través de elementos conectados hasta llegar nuevamente al punto de partida. Un lazo solo puede pasar por un elemento una vez (de tal forma que no obtengas lazos que parezcan el número 8). En el circuito de arriba hay tres lazos: dos representados con una línea continua y otro con una línea punteada.
 
-
-Una malla es una clase restringida de lazo; una malla es un lazo que no contiene otros lazos, el lazo punteado no es una malla, pues contiene dos lazos distintos.
+**Una malla es una clase restringida de lazo; una malla es un lazo que no contiene otros lazos, el lazo punteado no es una malla, pues contiene dos lazos distintos.**
 
 ![Blank diagram (3)](https://user-images.githubusercontent.com/93826527/142958704-42b687b4-f30c-4307-b342-6734275d7551.png)
 
